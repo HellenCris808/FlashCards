@@ -1,3 +1,10 @@
 body {
 background-color: rgb(17, 24, 152);
 }
+footer {
+background-color: black;
+color: white;
+bottom:0;
+position:fixed;
+width:100%;
+}
